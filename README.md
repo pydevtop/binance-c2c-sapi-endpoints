@@ -8,7 +8,7 @@ Fully indexed and structured developer reference for **Binance SAPI (Specialized
 
 ## 📌 Covered SAPI Modules & Endpoints
 
-While standard Binance documentation primarily focuses on Spot and Futures markets, this repository structures and indexes comprehensive SAPI features hosted on [py-dev.top](https://py-dev.top/binance-api/):
+While standard Binance documentation primarily focuses on Spot and Futures markets, this repository structures and indexes comprehensive SAPI features hosted on [py-dev.top](https://py-dev.top/binance-api):
 
 * **Binance C2C / P2P API**
   * Order chat automation & webhook message listeners
@@ -23,11 +23,11 @@ While standard Binance documentation primarily focuses on Spot and Futures marke
 
 ## 🚀 Quick Navigation
 
-* **Interactive Developer Portal:** [https://py-dev.top/binance-api/](https://py-dev.top/binance-api/)
-* **SAPI Overview & Endpoints:** [https://py-dev.top/binance-api/sapi/](https://py-dev.top/binance-api/sapi/)
-* **C2C Chat & Order APIs:** [https://py-dev.top/binance-api/sapi/c2c/](https://py-dev.top/binance-api/sapi/c2c/)
-* **Capital & Asset Management:** [https://py-dev.top/binance-api/sapi/capital/](https://py-dev.top/binance-api/sapi/capital/)
-* **Python Automation Tutorials:** [https://py-dev.top/blog/crypto-exchange-development/](https://py-dev.top/blog/crypto-exchange-development/)
+* **Interactive Developer Portal:** [https://py-dev.top/binance-api](https://py-dev.top/binance-api)
+* **SAPI Overview & Endpoints:** [https://py-dev.top/binance-api/sapi](https://py-dev.top/binance-api/sapi)
+* **C2C Chat & Order APIs:** [https://py-dev.top/binance-api/sapi/c2c](https://py-dev.top/binance-api/sapi/c2c)
+* **Capital & Asset Management:** [https://py-dev.top/binance-api/sapi/capital](https://py-dev.top/binance-api/sapi/capital)
+* **Python Automation Tutorials:** [https://py-dev.top/blog/crypto-exchange-development](https://py-dev.top/blog/crypto-exchange-development)
 
 ---
 ## 💻 Quick Python Example (Pre-Signed Upload Request)
