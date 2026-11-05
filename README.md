@@ -3,7 +3,12 @@
 Fully indexed and structured developer reference for **Binance SAPI (Specialized API)** and **C2C / P2P endpoints**, based directly on official Binance REST API specifications with payload schemas, live examples, and Python integration guides.
 
 🔗 **Explore Full Live Interactive Docs:** [https://py-dev.top/binance-api](https://py-dev.top/binance-api)
+## 🌍 Available Documentation
 
+| Language     | Documentation |
+| ------------ | ------------- |
+| 🇺🇸 English | README.md     |
+| 🇪🇸 Español | README_ES.md  |
 ---
 
 ## 📌 Covered SAPI Modules & Endpoints
