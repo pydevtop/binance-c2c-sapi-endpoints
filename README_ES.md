@@ -36,7 +36,7 @@ Mientras que la documentación estándar de Binance se enfoca principalmente en 
 
 - **Portal interactivo para desarrolladores:** [https://py-dev.top/es/binance-api](https://py-dev.top/es/binance-api)
 - **Descripción general y endpoints de SAPI:** [https://py-dev.top/es/binance-api/sapi](https://py-dev.top/es/binance-api/sapi)
-- **API de chat y órdenes C2C:** [https://py-dev.top/es/binance-api/sapi/c2c](https://py-dev.top/es/binance-api/sapi/c2c)
+- **API de chat y órdenes C2C:** [https://py-dev.top/es/binance-api/sapi/binance-sapi-c2c-api](https://py-dev.top/es/binance-api/sapi/binance-sapi-c2c-api)
 - **Gestión de capital y activos:** [https://py-dev.top/es/binance-api/sapi/capital](https://py-dev.top/es/binance-api/sapi/capital)
 - **Tutoriales de automatización con Python:** [https://py-dev.top/es/blog/crypto-exchange-development](https://py-dev.top/es/blog/crypto-exchange-development)
 
