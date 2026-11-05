@@ -32,7 +32,7 @@ While standard Binance documentation primarily focuses on Spot and Futures marke
 
 * **Interactive Developer Portal:** [https://py-dev.top/binance-api](https://py-dev.top/binance-api)
 * **SAPI Overview & Endpoints:** [https://py-dev.top/binance-api/sapi](https://py-dev.top/binance-api/sapi)
-* **C2C Chat & Order APIs:** [https://py-dev.top/binance-api/sapi/c2c](https://py-dev.top/binance-api/sapi/c2c)
+* **C2C Chat & Order APIs:** [https://py-dev.top/binance-api/sapi/binance-sapi-c2c-api](https://py-dev.top/binance-api/sapi/binance-sapi-c2c-api)
 * **Capital & Asset Management:** [https://py-dev.top/binance-api/sapi/capital](https://py-dev.top/binance-api/sapi/capital)
 * **Python Automation Tutorials:** [https://py-dev.top/blog/crypto-exchange-development](https://py-dev.top/blog/crypto-exchange-development)
 
