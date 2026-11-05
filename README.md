@@ -5,10 +5,14 @@ Fully indexed and structured developer reference for **Binance SAPI (Specialized
 🔗 **Explore Full Live Interactive Docs:** [https://py-dev.top/binance-api](https://py-dev.top/binance-api)
 ## 🌍 Available Documentation
 
-| Language     | Documentation |
-| ------------ | ------------- |
-| 🇺🇸 English | README.md     |
-| 🇪🇸 Español | README_ES.md  |
+
+## 🌍 Available Documentation
+
+| Language | Documentation |
+|----------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
+
 ---
 
 ## 📌 Covered SAPI Modules & Endpoints
